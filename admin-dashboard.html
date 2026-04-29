@@ -149,8 +149,24 @@ function setTgl(id,vl){var e=document.getElementById(id);if(!e)return;if(vl)e.cl
 
 /* DATABASE */
 function loadDB(){
-  try{var s=localStorage.getItem(K);if(s){var p=JSON.parse(s);D.settings=mg(D.settings,p.settings||{});D.homepage=mg(D.homepage,p.homepage||{});D.aboutpage=mg(D.aboutpage,p.aboutpage||{});D.commissions=mg(D.commissions,p.commissions||{});D.printful=mg(D.printful,p.printful||p.finerworks||{});D.artwork=p.artwork||[];D.prints=p.prints||[];D.blog=p.blog||[];D.exhibitions=p.exhibitions||[];}}catch(e){console.warn(e);}
-  popSt();popHP();popAB();popCM();popPF();refresh();
+  try{
+    var s=localStorage.getItem(K);
+    if(s){
+      var p=JSON.parse(s);
+      D.settings=mg(D.settings,p.settings||{});
+      D.homepage=mg(D.homepage,p.homepage||{});
+      D.aboutpage=mg(D.aboutpage,p.aboutpage||{});
+      D.commissions=mg(D.commissions,p.commissions||{});
+      D.printful=mg(D.printful,p.printful||p.finerworks||{});
+      D.artwork=Array.isArray(p.artwork)?p.artwork:[];
+      D.prints=Array.isArray(p.prints)?p.prints:[];
+      D.blog=Array.isArray(p.blog)?p.blog:[];
+      D.exhibitions=Array.isArray(p.exhibitions)?p.exhibitions:[];
+    }
+  }catch(e){console.warn('loadDB error:',e);}
+  finally{
+    popSt();popHP();popAB();popCM();popPF();refresh();
+  }
 }
 function saveDB(){try{var json=JSON.stringify(D);localStorage.setItem(K,json);var e=document.getElementById('saveStatus');e.textContent='Saved!';e.className='save-st ok';setTimeout(function(){e.textContent='All changes saved';},1500);}catch(e){console.error(e);if(e.name==='QuotaExceededError'||e.name==='NS_ERROR_DOM_QUOTA_REACHED'){alert("Storage full! Click Backup now to download your data, then clear some browser storage.");var st=document.getElementById('saveStatus');st.textContent='Storage full — Backup now!';st.className='save-st';}}refresh();}
 function exportDB(){dlBlob('darla-nyren-database.json',new Blob([JSON.stringify(D,null,2)],{type:'application/json'}));}
@@ -180,12 +196,16 @@ function importDB(ev){
       D.aboutpage=mg(D.aboutpage,p.aboutpage||{});
       D.commissions=mg(D.commissions,p.commissions||{});
       D.printful=mg(D.printful,p.printful||p.finerworks||{});
-      D.artwork=p.artwork||D.artwork;
-      D.prints=p.prints||D.prints;
-      D.blog=p.blog||D.blog;
-      D.exhibitions=p.exhibitions||D.exhibitions;
-      saveDB();popSt();popHP();popAB();popCM();popPF();
-      alert('Database imported successfully!');
+      D.artwork=Array.isArray(p.artwork)?p.artwork:D.artwork;
+      D.prints=Array.isArray(p.prints)?p.prints:D.prints;
+      D.blog=Array.isArray(p.blog)?p.blog:D.blog;
+      D.exhibitions=Array.isArray(p.exhibitions)?p.exhibitions:D.exhibitions;
+      // Save then immediately repopulate all panels and refresh tables
+      try{localStorage.setItem(K,JSON.stringify(D));}catch(qe){console.warn('localStorage save failed',qe);}
+      popSt();popHP();popAB();popCM();popPF();
+      refresh();
+      var count=D.artwork.length+D.blog.length+D.exhibitions.length;
+      alert('Import successful!\n\n'+D.artwork.length+' artworks, '+D.blog.length+' posts, '+D.exhibitions.length+' exhibitions loaded.');
     }catch(err){alert('Import failed: '+err.message+'\n\nMake sure you are importing a Darla Nyren dashboard backup file.');}
   };
   r.readAsText(f);ev.target.value='';
