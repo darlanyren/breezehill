@@ -1,0 +1,518 @@
+{
+  "settings": {
+    "artistName": "Darla Nyren",
+    "studioName": "Studio at Breeze Hill",
+    "businessName": "2026 Breeze Hill Art",
+    "email": "info@breezehillart.com",
+    "phone": "",
+    "instagram": "https://www.instagram.com/breezehillart/",
+    "facebook": "https://www.facebook.com/Breeze-Hill-Art-1693733334212509/",
+    "pinterest": "",
+    "domain": "darlanyren.com",
+    "metaDesc": "San Diego-based artist creating original paintings, fine art prints, and digital compositions from the studio at Breeze Hill. Former curator of the Microsoft Art Collection.",
+    "keywords": "original art, San Diego artist, oil paintings, fine art prints, coastal art, Darla Nyren",
+    "navPages": [
+      {
+        "slug": "originals",
+        "label": "Originals",
+        "on": true
+      },
+      {
+        "slug": "prints",
+        "label": "Prints & Gifts",
+        "on": true
+      },
+      {
+        "slug": "commissions",
+        "label": "Commissions",
+        "on": true
+      },
+      {
+        "slug": "about",
+        "label": "About",
+        "on": true
+      },
+      {
+        "slug": "journal",
+        "label": "Journal",
+        "on": true
+      }
+    ]
+  },
+  "homepage": {
+    "heroTag": "Original art from San Diego, California",
+    "heroHead": "Where the *ocean meets* imagination",
+    "heroSub": "Original paintings from the studio at Breeze Hill.",
+    "heroBtn": "View Original Paintings",
+    "heroBtnL": "originals.html",
+    "heroBg": "darla-nyren-rushing-in-original-acrylic-ocean-painting.jpg",
+    "credText": "Former manager of the *Microsoft Art Collection*",
+    "credOn": true,
+    "featTag": "Featured originals",
+    "featTitle": "Currently Available",
+    "featCount": "3",
+    "featMethod": "auto-available",
+    "ctaOn": true,
+    "ctaH": "Interested in a piece?",
+    "ctaT": "I'd love to hear from you. Reach out to discuss available works, commissions, or just to say hello.",
+    "ctaBtn": "Get in Touch",
+    "ctaLnk": "mailto:info@breezehillart.com",
+    "heroOverlay": "dramatic"
+  },
+  "aboutpage": {
+    "title": "About",
+    "sub": "Artist, Writer, Wanderer, Enjoyer of Life",
+    "bioH": "Darla Nyren",
+    "bio1": "By the time I start a painting or digital composition, I feel as if I've been compelled to tell a particular story or capture a moment. The thoughts and images have been whirling around in my head begging to come out and play. Whether a beach scene or whimsical fantasy, there's something that caught me and wouldn't let go.",
+    "bio2": "I love being out in nature and especially near the water, whether a lake, a river, ocean, or even a backyard kiddie pool. The sounds, the smells, and ebbing flow rocking me back and forth, soothes my inner child and awakens all my senses at the same time. Compelled to create, I'm transported, joyful, playful, connected and alive. And hopefully I release that spirit into my work.",
+    "bio3": "Darla is a full-time artist, wanderer and enjoyer of life. As a marketing communications professional at Microsoft, she used her digital storytelling, design and branding experience on many varying, high-impact and often pioneering projects. Mixing her love for art with business, from 2007 to 2011 she managed the Microsoft Art Collection with over 5,000 works in Microsoft buildings throughout the world. She lives in sunny San Diego, California where she works from her home studio surrounded by eucalyptus trees on Breeze Hill.",
+    "photo": "darla-nyren-artist.jpg",
+    "stmtOn": true,
+    "stmtH": "Artist Statement",
+    "stmtT": "By the time I start a painting or digital composition, I feel as if I've been compelled to tell a particular story or capture a moment. The thoughts and images have been whirling around in my head begging to come out and play. Whether a beach scene or whimsical fantasy, there's something that caught me and wouldn't let go.\n\nI love being out in nature and especially near the water, whether a lake, a river, ocean, or even a backyard kiddie pool. The sounds, the smells, and ebbing flow rocking me back and forth, soothes my inner child and awakens all my senses at the same time. Compelled to create, I'm transported, joyful, playful, connected and alive. And hopefully I release that spirit into my work.",
+    "exTag": "Career",
+    "exTitle": "Exhibitions & Credentials"
+  },
+  "commissions": {
+    "title": "Commissions",
+    "sub": "Custom artwork created for you",
+    "intro": "Commission a one-of-a-kind painting for your home, office, or as a meaningful gift. Every commission begins with a conversation about your vision and ends with a signed original delivered to your door.",
+    "mult": 1.5,
+    "dep": "50%",
+    "steps": [
+      {
+        "t": "Inquiry",
+        "d": "Fill out the commission form with your vision, preferred size, colors, and any reference photos."
+      },
+      {
+        "t": "Concept",
+        "d": "We discuss your vision in detail. I provide preliminary sketches and a detailed quote."
+      },
+      {
+        "t": "Deposit",
+        "d": "A 50% deposit secures your place in my schedule. Materials preparation begins."
+      },
+      {
+        "t": "Creation",
+        "d": "Your painting is created in the studio with progress photos shared at key milestones."
+      },
+      {
+        "t": "Review",
+        "d": "High-resolution photos sent for your approval. Minor adjustments included."
+      },
+      {
+        "t": "Delivery",
+        "d": "Final payment, professional crating, certificate of authenticity, and shipping."
+      }
+    ],
+    "included": "Initial consultation and concept discussion\nPreliminary sketches\nProgress photos during creation\nMinor revisions at completion\nProfessional varnishing\nSigned certificate of authenticity\nProfessional crating for shipping\nReady-to-hang hardware"
+  },
+  "printful": {
+    "storeUrl": "",
+    "wixUrl": "",
+    "intro": "Fine art prints, greeting cards, and gifts — each reproduction is made to order with archival-quality materials."
+  },
+  "artwork": [
+    {
+      "id": "art-001",
+      "title": "Rushing In",
+      "medium": "Acrylic on canvas",
+      "size": "36 × 36 in",
+      "price": 1440,
+      "category": "coastal",
+      "status": "Available",
+      "image": "darla-nyren-rushing-in-original-acrylic-ocean-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "Rushing In — original acrylic painting by Darla Nyren, 36×36 inches, ocean waves crashing on California shore",
+      "gallery": "Rushing-in-2016-SD-Fine-Art-Fair.jpg, Orignial-Art-Painting-at-San-Diego-Del-Mar-Fair.jpg",
+      "mockup": "Rushing-in-2016-SD-Fine-Art-Fair.jpg",
+      "mockupLabel": "JURIED EXHIBITION",
+      "printsLabel": "Shop prints of this work",
+      "inclLabel": "Every original includes",
+      "inclList": "Signed certificate of authenticity\nReady-to-hang hardware\nProfessional crating & shipping",
+      "linkedPost": "Rushing In",
+      "description": "There’s a spot at Torrey Pines where the waves come in at an angle that catches the late afternoon light in a way I’ve never been able to forget. Rushing In captures that relentless, joyful energy — the ocean doing what it always does, completely unbothered and completely alive.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-002",
+      "title": "Little Man Big Waves",
+      "medium": "Acrylic on canvas",
+      "size": "48 × 36 in",
+      "price": 1848,
+      "category": "coastal",
+      "status": "Sold",
+      "image": "darla-nyren-little-man-big-waves-original-acrylic-ocean-painting.jpg",
+      "year": "",
+      "alt": "Little Man Big Waves — original acrylic painting by Darla Nyren, 48×36 inches, figure at the ocean’s edge with powerful waves",
+      "description": "The ocean has a way of reminding us how small we are — and how magnificent. A small figure at the water’s edge, dwarfed by the rolling surf. The biggest canvas I paint, for the biggest feeling I know.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-003",
+      "title": "Serenity Symphony",
+      "medium": "Oil on canvas",
+      "size": "30 × 30 in",
+      "price": 1200,
+      "category": "coastal",
+      "status": "Sold",
+      "image": "darla-nyren-serenity-symphony-original-oil-coastal-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "Serenity Symphony — original oil painting by Darla Nyren, 30×30 inches, peaceful coastal seascape in soft blues and creams",
+      "gallery": "",
+      "mockup": "",
+      "mockupLabel": "",
+      "printsLabel": "",
+      "inclLabel": "",
+      "inclList": "",
+      "linkedPost": "Serenity Symphony",
+      "description": "Some mornings the ocean is so still it feels like it’s holding its breath. This is one of those mornings — light and water in perfect, quiet conversation. The free digital download offered with newsletter signups features this painting.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-004",
+      "title": "Up",
+      "medium": "Acrylic on canvas",
+      "size": "48 × 36 in",
+      "price": 1848,
+      "category": "surreal",
+      "status": "Available",
+      "image": "darla-nyren-up-original-acrylic-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "Up — original acrylic painting by Darla Nyren, 48×36 inches, surreal imaginative composition",
+      "gallery": "Up-Original-Art-Acrylic-Painting-Landscape-Trees.jpg, Up-digital-composites.jpg",
+      "mockup": "Up-Original-Art-Acrylic-Painting-Landscape-Trees.jpg,",
+      "linkedPost": "",
+      "description": "There is always a way up. Always a reason to look toward the light and let go of what’s holding you down. Large-scale, bold, and alive with movement — this painting was made for a statement wall.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-005",
+      "title": "Giant Tecolote Ranunculus",
+      "medium": "Acrylic on canvas",
+      "size": "24 × 18 in",
+      "price": 840,
+      "category": "florals",
+      "status": "Available",
+      "image": "darla-nyren-giant-tecolote-ranunculus-original-acrylic-floral-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "Giant Tecolote Ranunculus — original acrylic painting by Darla Nyren, 24×18 inches, vibrant California ranunculus flowers",
+      "gallery": "",
+      "mockup": "Too-much-fun.jpg, Background.jpg, Giant-Tecolote-Ranunculus.jpg",
+      "linkedPost": "",
+      "description": "Every February, the Carlsbad Flower Fields explode with these spectacular blooms — ruffled, layered, almost impossibly beautiful. I wanted to get right up close to one and let it fill the whole canvas. San Diego in full glory.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-006",
+      "title": "Madeline’s Flowers",
+      "medium": "Acrylic on canvas",
+      "size": "12 × 12 in",
+      "price": 480,
+      "category": "florals",
+      "status": "Sold",
+      "image": "darla-nyren-madelines-flowers-original-acrylic-floral-painting.jpg",
+      "year": "",
+      "alt": "Madeline’s Flowers — original acrylic painting by Darla Nyren, 12×12 inches, intimate floral composition in soft tones",
+      "description": "A small painting with a big heart — painted for Madeline, who loves flowers the way I do. Soft, intimate, and full of warmth. Perfect for a bedroom, a reading nook, or anywhere you want something quietly beautiful.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-007",
+      "title": "Between the Lines #1",
+      "medium": "Oil & acrylic on canvas",
+      "size": "12 × 12 in",
+      "price": 480,
+      "category": "florals",
+      "status": "Available",
+      "image": "darla-nyren-between-the-lines-1-original-oil-acrylic-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "Between the Lines #1 — original oil and acrylic painting by Darla Nyren, 12×12 inches, abstract botanical series",
+      "gallery": "darla-nyren-between-the-lines-1-original-oil-acrylic-painting (6).jpg",
+      "mockup": "darla-nyren-between-the-lines-1-kitchen.jpg",
+      "linkedPost": "",
+      "description": "Part of a three-piece series exploring the space between structure and freedom, nature and abstraction. Each piece stands alone or hangs beautifully as a triptych. Available individually or as a set — contact me for set pricing.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-008",
+      "order": 8,
+      "title": "Between the Lines #2",
+      "medium": "Oil & acrylic on canvas",
+      "size": "12 × 12 in",
+      "price": 480,
+      "category": "florals",
+      "status": "Available",
+      "image": "darla-nyren-between-the-lines-2-original-oil-acrylic-painting.jpg",
+      "alt": "Between the Lines #2 — original oil and acrylic painting by Darla Nyren, 12×12 inches, abstract botanical series",
+      "description": "The second in the Between the Lines series — warmer tones, a looser hand. The series reads as a conversation across three canvases. Sell individually or as a complete triptych.",
+      "purchaseUrl": ""
+    },
+    {
+      "id": "art-009",
+      "order": 9,
+      "title": "Between the Lines #3",
+      "medium": "Oil & acrylic on canvas",
+      "size": "12 × 12 in",
+      "price": 480,
+      "category": "florals",
+      "status": "Available",
+      "image": "darla-nyren-between-the-lines-3-original-oil-acrylic-painting.jpg",
+      "alt": "Between the Lines #3 — original oil and acrylic painting by Darla Nyren, 12×12 inches, abstract botanical series",
+      "description": "The final piece in the triptych — cooler, quieter, resolved. Together the three pieces create a complete story. Each also works beautifully on its own.",
+      "purchaseUrl": ""
+    },
+    {
+      "id": "art-010",
+      "title": "American Cowboy",
+      "medium": "Oil on canvas",
+      "size": "20 × 30 in",
+      "price": 1000,
+      "category": "portraits",
+      "status": "Available",
+      "image": "darla-nyren-american-cowboy-original-oil-portrait-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "American Cowboy — original oil painting by Darla Nyren, 20×30 inches, figurative portrait of an American cowboy",
+      "gallery": "Cowboy1.jpg, Cowboy3.jpg, Cowboy2.JPG",
+      "mockup": "Cowboy2.JPG",
+      "mockupLabel": "WORK IN PROGRESS",
+      "printsLabel": "Shop prints of this work",
+      "inclLabel": "Every original includes",
+      "inclList": "Signed certificate of authenticity\nReady-to-hang hardware\nProfessional crating & shipping",
+      "linkedPost": "",
+      "description": "A tribute to the American West and the quiet dignity of the working man. Painted in oil with a warm, earthy palette that feels as timeless as the subject itself. A strong presence on any wall.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-011",
+      "title": "Lucas Jaymes",
+      "medium": "Oil on canvas",
+      "size": "16 × 20 in",
+      "price": 720,
+      "category": "portraits",
+      "status": "Sold",
+      "image": "darla-nyren-lucas-jaymes-original-oil-portrait-painting.jpg",
+      "year": "",
+      "alt": "Lucas Jaymes — original oil painting by Darla Nyren, 16×20 inches, intimate portrait in oil",
+      "description": "A deeply personal portrait — painted with love and careful attention to the person behind the face. Oil on canvas, 16×20, painted with a warm, luminous palette. A reminder that portraits are really about the feeling of a person, not just their likeness.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-012",
+      "title": "I’m a Little Teapot",
+      "medium": "Oil on canvas",
+      "size": "30 × 40 in",
+      "price": 1400,
+      "category": "surreal",
+      "status": "NFS",
+      "image": "darla-nyren-im-a-little-teapot-original-oil-whimsical-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "I’m a Little Teapot — original oil painting by Darla Nyren, 30×40 inches, whimsical antique Japanese Satsuma teapot coming to life",
+      "gallery": "",
+      "mockup": "",
+      "linkedPost": "I'm a Little Teapot",
+      "description": "My mother’s antique Japanese Satsuma elephant teapot, coming gloriously to life. This painting holds a childhood memory — tea and toast, a treasured object, the feeling of being four years old and completely enchanted. Juried: Summation at Escondido Municipal Gallery (2019) and 2018 Open Juried Award Show, Carlsbad Oceanside Art League.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-013",
+      "title": "More",
+      "medium": "Oil on canvas",
+      "size": "30 × 40 in",
+      "price": 1400,
+      "category": "surreal",
+      "status": "Available",
+      "image": "darla-nyren-more-original-oil-surreal-painting.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "More — original oil painting by Darla Nyren, 30×40 inches, surreal and imaginative composition",
+      "gallery": "",
+      "mockup": "",
+      "mockupLabel": "See it in a room",
+      "printsLabel": "Shop prints of this work",
+      "inclLabel": "Every original includes",
+      "inclList": "Signed certificate of authenticity\nReady-to-hang hardware\nProfessional crating & shipping",
+      "linkedPost": "More",
+      "description": "Always reaching. Always wanting more — more beauty, more connection, more life. This large oil painting captures that restless, joyful hunger that drives creative people forward. A statement piece for anyone who knows the feeling.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-014",
+      "title": "Pops",
+      "medium": "Digital composition",
+      "size": "24 × 36 in print",
+      "price": 600,
+      "category": "surreal",
+      "status": "Available",
+      "image": "darla-nyren-pops-digital-composition-print.jpg",
+      "imgPos": "center",
+      "year": "",
+      "alt": "Pops — digital composition by Darla Nyren, 24×36 inch print, tribute to father through surreal imagery",
+      "gallery": "",
+      "mockup": "",
+      "linkedPost": "Pops",
+      "description": "A love letter to my father — “Welding with Pops” distilled into something dreamlike and timeless. Digital compositions like this one are available as large-format archival prints. Each print is signed and sold in a limited edition of 50.",
+      "dateAdded": "2026-04-28"
+    },
+    {
+      "id": "art-015",
+      "order": 15,
+      "title": "Come Fly With Me",
+      "medium": "Digital composition",
+      "size": "20 × 30 in print",
+      "price": 500,
+      "category": "surreal",
+      "status": "Available",
+      "image": "darla-nyren-come-fly-with-me-digital-composition-print.jpg",
+      "alt": "Come Fly With Me — digital composition by Darla Nyren, 20×30 inch print, whimsical flight and freedom imagery",
+      "description": "An invitation to let go of the ordinary and rise. Juried: Abstracts & Surrealism, Escondido Municipal Gallery. Available as a signed, limited-edition archival print in a run of 50.",
+      "purchaseUrl": ""
+    }
+  ],
+  "prints": [],
+  "blog": [
+    {
+      "id": "blog-001",
+      "title": "Note to Self",
+      "category": "Inspiration",
+      "date": "2024-11-19",
+      "excerpt": "A quiet note from the studio.",
+      "content": "A quiet note from the studio.",
+      "image": "Note-2.JPG",
+      "imgPos": "top",
+      "gallery": "Note-to-Self.JPG",
+      "linkedArtwork": "",
+      "dateAdded": "2026-04-29"
+    },
+    {
+      "id": "blog-002",
+      "title": "Pops",
+      "category": "New Work",
+      "date": "2018-12-12",
+      "excerpt": "I love this old photo of my dad. I've seen that same mischievous, self-assured, little boy grin so many times on the man, father, grandfather, great-grandfather.",
+      "content": "I love this old photo of my dad. I've seen that same mischievous, self-assured, little boy grin so many times on the man, father, grandfather, great-grandfather. The reflections of old cars captured forever in the window. Hot rods, fast cars, Indy and NASCAR, chopping this, welding that, sparks flying, fat tires, pinstripes and flames all around. Me holding wrenches and welding rods just to be close to him. I look past the window and see reflections of the man to be. My eyes sparkle, and I feel that same grin reflected upon my face.\n\n\"Pops\" is a digital composition.",
+      "image": "darla-nyren-pops-digital-composition-print.jpg",
+      "imgPos": "top",
+      "gallery": "darla-nyren-pops-digital-composition-print.jpg",
+      "linkedArtwork": "Pops",
+      "dateAdded": "2026-04-29"
+    },
+    {
+      "id": "blog-003",
+      "title": "More",
+      "category": "New Work",
+      "date": "2018-11-08",
+      "excerpt": "Sometimes to have more, you must let go of what was to be open to what could be.",
+      "content": "Sometimes to have more, you must let go of what was to be open to what could be.\n\nLove me\nTouch me\nHold me\nNever let go of me\nAnd I'll\nLove you\nTouch you\nHold you\nNever let go of you\nAnd more\n\nBut how\nNow that you're gone\nBut how\nCan I keep holding on\nI'm afraid\nIf I let go you'll be gone\nI'm afraid\nI'm afraid\nBut I must walk on\n\nI lift the lid\nAnd set you free\nSoar high\nAnd take a part of me\nMy heart open\nDeeper\nTrue\nI'll soar free\nAnd take a part of you\n\nAnd with Smiles\nFrom our Hearts\nI'll love you\nRemember you\nGo on\nLaugh and love\nA little brighter because of you\nAnd more\n\nMore — original oil painting, 40 x 30 x 1.5 canvas (gallery wrap, ready to hang).",
+      "image": "darla-nyren-more-original-oil-surreal-painting.jpg",
+      "imgPos": "center",
+      "gallery": "slide4.jpg, slide5.jpg, darla-nyren-more-original-oil-surreal-painting.jpg",
+      "linkedArtwork": "More",
+      "dateAdded": "2026-04-29"
+    },
+    {
+      "id": "blog-004",
+      "title": "Serenity Symphony",
+      "category": "New Work",
+      "date": "2018-09-09",
+      "excerpt": "At the beach staring off into the horizon — quickly lulled into a peaceful, serene place. Calm yet energized and renewed.",
+      "content": "At the beach staring off into the horizon\nQuickly lulled into a peaceful, serene place\nCalm yet energized and renewed\n\nCrashing waves envelop my senses\nA slight breeze and ocean spray awaken my being\nMy mind frees as my breath syncopates to the rhythm of the surf\nCrackling, tumbling, ocean weary rocks\nPull me to follow as the tide claims them once again\nShaping and exposing their splendor\nWith each ebb and flow the beauty and vastness take me away\nAs the warm sand cradling my feet\nTethers me to mother earth\nMy soul blessed\nBy this grand symphony of life\n\nSerenity Symphony — original oil/acrylic painting, 30 x 30 x 1.5 canvas. Commission.",
+      "image": "darla-nyren-serenity-symphony-original-oil-coastal-painting.jpg",
+      "imgPos": "bottom",
+      "gallery": "darla-nyren-serenity-symphony-original-oil-coastal-painting.jpg, Serenty-Symphony1.jpg, Serenty-Symphony2.jpg",
+      "linkedArtwork": "Serenity Symphony",
+      "dateAdded": "2026-04-29"
+    },
+    {
+      "id": "blog-005",
+      "title": "I'm a Little Teapot",
+      "category": "New Work",
+      "date": "2018-07-23",
+      "excerpt": "Just put the finishing touches on our Little Teapot. I'm four years old and filled with wide-eyed excitement and joy, wrapped in love and comfort every time I see it.",
+      "content": "Just put the finishing touches on our Little Teapot. I'm four years old and filled with wide-eyed excitement and joy, wrapped in love and comfort every time I see it. A long ago hazy memory shared between mother and child. And a feeling that's lasted a lifetime.\n\nWith my brother off to school, my mother would treat me to \"tea\" and toast. Opening the cupboard, she'd get down the \"elfenant\" — an antique Japanese Satsuma teapot given to her by my great grandmother. Sparkly and gold, the treasured Elephant magically called me to come out and play while at the same time pretend to be a big girl having grown up tea.\n\nI remember it being such a treasure and treat and wanted to capture that playful, childlike quality of it coming to life in my inner child's mind. I hope I put the feelings of pure joy and playfulness in the painting that it brings me.\n\nI'm a Little Teapot — original oil painting, 40 x 30 x 1.5 canvas (gallery wrap, ready to hang).\n\nJuried Exhibitions: Summation year-end show, Escondido Municipal Gallery (Dec 2018–Jan 2019). 2018 Open Juried Award Show, Carlsbad Oceanside Art League (Aug–Sept 2018).",
+      "image": "darla-nyren-im-a-little-teapot-original-oil-whimsical-painting.jpg",
+      "imgPos": "center",
+      "gallery": "darla-nyren-im-a-little-teapot-original-oil-whimsical-painting.jpg, Japanese-Satsuma-Elephant-Teapot.jpg, Teapot-at-COAL.jpg, Little-Teapot-early-in-Process.jpg, Little-Teapot-in-Process.jpg,",
+      "linkedArtwork": "I’m a Little Teapot",
+      "dateAdded": "2026-04-29"
+    },
+    {
+      "id": "blog-006",
+      "title": "Mondays with Maggie",
+      "category": "Studio Process",
+      "date": "2018-05-01",
+      "excerpt": "Over the past year I've had the wonderful pleasure and gift to learn from an amazing artist and now friend, Margaret Chiaro.",
+      "content": "I've been meaning to write this post for a long time, if only for my own reflection on my progress on this artist's journey. Over the past year I've had the wonderful pleasure and gift to learn from an amazing artist and now friend, Margaret Chiaro. I've admired her artistry, and, full disclosure, am a collector.\n\nI've learned so much about working with oil, not just brush and various techniques, but how to see light, color and value and bring a painting to life through perspective, depth and use of color.\n\nPerhaps the biggest lesson I learned was patience and perseverance. Well, I'm still working on that. Forever grateful for all the knowledge shared and freedom to experiment.\n\nAnd just like life, sometimes you have to take it slow, take a step back to see where you are to know where you're going. And then, press on.",
+      "image": "MondayswithMaggie5.jpg",
+      "imgPos": "center",
+      "gallery": "MondayswithMaggie5.jpg, MondayswithMaggie4.jpg, MondayswithMaggie2.jpg, Monday1.jpg, Monday2.jpg, Monday3.jpg, Monday4.jpg",
+      "linkedArtwork": "",
+      "dateAdded": "2026-04-28"
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": "exh-001",
+      "year": "2018–2019",
+      "title": "Summation: Year-End Show, Escondido Municipal Gallery",
+      "description": "Escondido Arts Partnership. Artwork: I'm a Little Teapot, Oil 40x30. Dec 7, 2018 – Jan 4, 2019.",
+      "dateAdded": "2018-12-07"
+    },
+    {
+      "id": "exh-002",
+      "year": "2018",
+      "title": "2018 Open Juried Award Show, Carlsbad Oceanside Art League",
+      "description": "Artwork: I'm a Little Teapot, Oil 40x30. Aug 1 – Sept 2, 2018.",
+      "dateAdded": "2018-08-01"
+    },
+    {
+      "id": "exh-003",
+      "year": "2017",
+      "title": "Illusion: Abstracts & Surreal, Escondido Municipal Gallery",
+      "description": "Escondido Arts Partnership. Artwork: Up, Acrylic 48x36. June 9 – July 1, 2017.",
+      "dateAdded": "2017-06-09"
+    },
+    {
+      "id": "exh-004",
+      "year": "2017",
+      "title": "2017 Fine Arts Exhibition, San Diego County Fair",
+      "description": "Del Mar. Artwork: Giant Tecolote Ranunculus, Acrylic 18x24. June 3 – July 4, 2017.",
+      "dateAdded": "2017-06-03"
+    },
+    {
+      "id": "exh-005",
+      "year": "2016",
+      "title": "Carlsbad Oceanside Art League, COAL Gallery",
+      "description": "Artwork: Giant Tecolote Ranunculus, Acrylic 18x24. September 2016.",
+      "dateAdded": "2016-09-01"
+    },
+    {
+      "id": "exh-006",
+      "year": "2016",
+      "title": "Contemporary Realism, Escondido Municipal Gallery",
+      "description": "Escondido Arts Partnership. Artwork: Up in the Trees, Photography Digital Composite. May 13 – June 4, 2016.",
+      "dateAdded": "2016-05-13"
+    },
+    {
+      "id": "exh-007",
+      "year": "2016",
+      "title": "2016 Fine Arts Exhibition, San Diego County Fair",
+      "description": "Del Mar. Artwork: Rushing In, Acrylic 36x36; Little Man Big Waves, Acrylic 48x36; Up, Acrylic 48x36. Honorable Mention awarded. June 3 – July 4, 2016.",
+      "dateAdded": "2016-06-03"
+    },
+    {
+      "id": "exh-008",
+      "year": "2016",
+      "title": "Abstracts & Surrealism, Escondido Municipal Gallery",
+      "description": "Escondido Arts Partnership. Artwork: Come Fly With Me, Digital Composite. June 10 – July 2, 2016.",
+      "dateAdded": "2016-06-10"
+    }
+  ]
+}
